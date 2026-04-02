@@ -51,10 +51,6 @@ NEONO is a premium, agency-grade single-page restaurant website that showcases a
   - High contrast ratios
   - Keyboard navigation support
 
-## 🚀 Live Demo
-
-[View Live Demo](https://your-demo-link.com)
-
 ## 📁 Project Structure
 neono-restaurant/
 │
@@ -66,15 +62,3 @@ neono-restaurant/
 ├── images/ # Image assets (to be added)
 ├── favicon.ico # Favicon files
 └── README.md # Project documentation
-
-text
-
-## 🛠️ Technologies Used
-
-| Technology | Purpose |
-|------------|---------|
-| **HTML5** | Semantic structure, forms, responsive images |
-| **CSS3** | Flexbox, Grid, animations, variables, glassmorphism |
-| **Vanilla JavaScript** | DOM manipulation, event handling, dynamic content |
-| **Font Awesome** | Icons and visual elements |
-| **Google Fonts** | Cormorant Garamond & Inter fonts |
